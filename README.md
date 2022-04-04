@@ -1,2 +1,1 @@
-Basic-Syntax-Conditional-Statements-and-Loops
-Problems solutions
+A few problems solutions from my training in Softuni.
