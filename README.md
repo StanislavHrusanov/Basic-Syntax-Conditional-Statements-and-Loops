@@ -1,2 +1,2 @@
 # JS-Fundamentals-
-Task's solutions
+Tasks' solutions
