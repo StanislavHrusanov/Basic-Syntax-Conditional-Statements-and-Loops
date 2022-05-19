@@ -1,3 +1,5 @@
+
+<<<<<<< .mine
 A few problem solutions from my training in Softuni.
 
 Here are the problem descriptions: 
@@ -15,7 +17,7 @@ _____________________________________________
 
 2.	Student Information 
 
-You will be given 3 parameters â€“ student name (string), age (number), and average grade (number). Your task is to print all the info about the student in the following format: 
+You will be given 3 parameters – student name (string), age (number), and average grade (number). Your task is to print all the info about the student in the following format: 
 `Name: {student name}, Age: {student age}, Grade: {student grade}`
  Note: The grade should be formatted to the second decimal point.
 Examples
@@ -40,9 +42,9 @@ ______________________________________________
 4.	Foreign Languages
 
 Write a program, which prints the language, that a given country speaks. You can receive only the following combinations: 
-â€¢	English is spoken in England and USA;
-â€¢	Spanish is spoken in Spain, Argentina, and Mexico;
-â€¢	For the others, we should print "unknown";
+•	English is spoken in England and USA;
+•	Spanish is spoken in Spain, Argentina, and Mexico;
+•	For the others, we should print "unknown";
 Input
 You will receive a single country name.
 Output
@@ -74,12 +76,12 @@ Weekday	12$	18$	12$
 Weekend	15$	20$	15$
 Holiday	5$	12$	10$
 Input
-The input comes in two parameters. The first one will be the type of day (string). The second â€“ the age of the person (number).
+The input comes in two parameters. The first one will be the type of day (string). The second – the age of the person (number).
 Output
 Print the price of the ticket according to the table, or "Error!" if the age is not in the table.
 Constraints
-â€¢	The age will be in the interval [-1000â€¦1000].
-â€¢	The type of day will always be valid. 
+•	The age will be in the interval [-1000…1000].
+•	The type of day will always be valid. 
 Examples
 Input	Output		Input	Output		Input	Output	
 'Weekday', 
@@ -136,12 +138,12 @@ ______________________________________________________
 
 Write a program that prints the next n odd numbers (starting from 1) and on the last row prints the sum of them.
 Input
-You will receive a number â€“ n. This number shows how many odd numbers you should print.
+You will receive a number – n. This number shows how many odd numbers you should print.
 Output
 Print the next n odd numbers, starting from 1, separated by newlines.
 On the last line, print the sum of these numbers in the following format: `Sum: {total sum}`
 Constraints
-â€¢	n will be in the interval [1â€¦100]
+•	n will be in the interval [1…100]
 Examples
 Input	Output		
 5	    1
@@ -155,3 +157,162 @@ Input	Output
         5
         Sum: 9
 
+=======
+# Conditional statements and loops
+A few problem solutions from my training in Softuni.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> .theirs
