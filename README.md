@@ -126,7 +126,8 @@ On the last line, print the **sum** of these numbers in the following format: **
 | :-: | :-: | :-: | :-: | :-: |
 |5|<p>1</p><p>3</p><p>5</p><p>7</p><p>9</p><p>Sum: 25</p>||3|<p>1</p><p>3</p><p>5</p><p>Sum: 9</p>|
 
-## **12. Ages**
+Ages {#ages .ListParagraph}
+----
 
 Write a function that determines whether based on the given **age** a
 person is: **baby**, **child**, **teenager**, **adult**, **elder**.
@@ -156,7 +157,7 @@ The **output** should be printed to the console.
   100         elder
   -1          out of bounds
 
-## **13. Rounding**
+**Rounding**
 
 Write a JS function that rounds numbers to a specific precision.
 
@@ -176,7 +177,7 @@ insignificant decimals.
   ------------------------------------- ------------ -- ----------- ------------
   3.1415926535897932384626433832795,2   3.14            10.5,3      10.5
 
-## **14. Division** 
+Division {#division .ListParagraph}
 --------
 
 You will be given a number and you have to check whether that number is
@@ -201,7 +202,7 @@ divisible".** Otherwise, print: "**The number is divisible by
   12          The number is divisible by 6
   1643        Not divisible
 
-## **15. Vacation**
+Vacation {#vacation .ListParagraph}
 --------
 
 You are given a **group of people**, the **type of the group**, and the
@@ -249,7 +250,7 @@ There are also discounts based on some conditions:
   "Saturday"    
   -----------------------------------
 
-## **16. Leap Year** 
+Leap Year {#leap-year .ListParagraph}
 ---------
 
 Write a JS function to check whether a year is a leap. Leap years are
@@ -268,7 +269,7 @@ either divisible by 4 but not by 100 or are divisible by 400. The
   2003        no
   4           yes
 
-## **17. Print and Sum** 
+Print and Sum {#print-and-sum .ListParagraph}
 -------------
 
 Write a function that displays numbers from **given start** to given
@@ -293,7 +294,7 @@ Print the result like the examples below:
               Sum: 605
   ----------------------------------------------
 
-## **18. Triangle of Numbers** 
+Triangle of Numbers {#triangle-of-numbers .ListParagraph}
 -------------------
 
 Write a function, which receives a **single number** – **n**, and prints
@@ -321,7 +322,7 @@ a triangle from **1 to n** as in the examples.
                                                                       6 6 6 6 6 6
   ---------------------------------------------------------------------------------
 
-## **19. Multiplication Table** 
+Multiplication Table {#multiplication-table .ListParagraph}
 --------------------
 
 You will receive a **number** as a parameter. Print the **10 times
@@ -364,7 +365,7 @@ The number will be an **integer** will be in the interval **\[1…100\]**
               5 X 10 = 50                  2 X 10 = 20
   ------------------------------------------------------
 
-## **20. \* Login** 
+\* Login {#login .ListParagraph}
 --------
 
 You will be given a string representing a username. The correct
@@ -403,7 +404,7 @@ username and **each** subsequent string is a password.
                                                      User sunny blocked!
   -----------------------------------------------------------------------------------
 
-## **21. \* The Pyramid of King Djoser**
+**\* The Pyramid of King Djoser**
 
 Write a JS program that calculates how much resources will be required
 for the construction of a pyramid. It is made out of **stone**,
@@ -527,7 +528,7 @@ calculations
               Final pyramid height: 6                    Final pyramid height: 6
   ----------------------------------------------------------------------------------
 
-## **22. \* Bitcoin "Mining"** 
+\* Bitcoin "Mining" {#bitcoin-mining .ListParagraph}
 -------------------
 
 Write a JavaScript program that calculates the **total amount** of
@@ -615,4 +616,3 @@ examples.
                                                                                
                                                                                Money left: 5144.11 lv.
   --------------------------------------------------------------------------------------------------------------------
-
